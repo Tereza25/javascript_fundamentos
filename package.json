@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "fs": "^0.0.1-security"
+  },
+  "name": "javascript_fundamentos",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pesquisa": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tereza25/javascript_fundamentos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tereza25/javascript_fundamentos/issues"
+  },
+  "homepage": "https://github.com/Tereza25/javascript_fundamentos#readme",
+  "devDependencies": {
+    "express": "^4.18.1"
+  }
+}
