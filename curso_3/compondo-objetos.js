@@ -1,3 +1,5 @@
+//Fazendo composição de um novo objeto dentro da propriedade cursos, que é um array. Foi utilizado a notação de ponto e o método push.
+
 const estudante = {
 	nome: "Tereza",
 	idade: 32,

@@ -1,3 +1,5 @@
+//Adicionamos uma propriedade que irá registrar a entrada de um depósito, como registro de um pagamento de matrícula.
+
 const estudante = {
 	nome: "Tereza",
 	idade: 32,
