@@ -9,3 +9,5 @@ Fazendo o uso adequado da biblioteca é possível dividir muito bem as responsab
 CURIOSIDADES 
 
  O **Jquery** é a biblioteca mais famosa na área de TI, especialmente na área de front-end. Também são procuradas a biblioteca **java.Lang** e o **math.h** que possui a função de calcular a raiz quadrada de um número.
+
+Vamos aprender a construir uma biblioteca no [curso Node.JS: Criando biblioteca](https://www.alura.com.br/conteudo/nodejs-criando-biblioteca).

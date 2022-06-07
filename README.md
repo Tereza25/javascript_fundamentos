@@ -11,12 +11,6 @@ Ao final desse estudo, você deverá:
 - Reproduzir o conhecimento obtido em outros contextos de programação.
 
 
-## Atividade prática
-
-O desafio é Criar uma aplicação Node.JS, que consiga ler um arquivo externo, utilizando importação de 2 bibliotecas. Será trabalhado conceitos de biblioteca e práticas de códigos sobre dependências, métodos e funções. 
-
-## 
-
 ### Sobre bibliotecas
  
 Iniciarei explicando o que é uma biblioteca e toda sua praticidade no desenvolvimento de aplicações e como podemos utilizar dependências criadas pela comunidade do ecossistema Javascript. Além disso, será trabalho as diferenças de biblioteca e framework. 
@@ -28,4 +22,14 @@ Nesta etapa apresentarei dois gerenciadores de pacotes: o npm e o yarn.  Vamos c
 ### Scripts e caminhos de arquivo
  
 Nesta etapa usaremos a funcionalidade do recurso ``import…from```, aprenderemos a ler um arquivo externo e executar comandos através de scripts. 
+
+# Desafio prático 1 - Arquivo index.js
+
+O desafio é Criar uma aplicação Node.JS ``index.js``, que consiga ler um arquivo externo ``textoBiblioteca.md``, utilizando importação de 2 bibliotecas: ``chalk`` e ``fs``. Será trabalhado conceitos de bibliotecas e práticas de códigos para tratamento de erros. 
+
+# Desafio prático 2 - Arquivo assincrono.js
+
+
+
+
 
