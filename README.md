@@ -23,11 +23,17 @@ Nesta etapa apresentarei dois gerenciadores de pacotes: o npm e o yarn.  Vamos c
  
 Nesta etapa usaremos a funcionalidade do recurso ``import…from```, aprenderemos a ler um arquivo externo e executar comandos através de scripts. 
 
-# Desafio prático 1 - Arquivo index.js
+# Desafio prático - Arquivo index.js
+
 
 O desafio é Criar uma aplicação Node.JS ``index.js``, que consiga ler um arquivo externo ``textoBiblioteca.md``, utilizando importação de 2 bibliotecas: ``chalk`` e ``fs``. Será trabalhado conceitos de bibliotecas e práticas de códigos para tratamento de erros. 
 
-# Desafio prático 2 - Arquivo assincrono.js
+- Exemplo 1: Usando if/else;
+
+- Exemplo 2: Usando then/catch;
+
+- Exemplo 3: Usando try/catch e async/await; 
+
 
 
 

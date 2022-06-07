@@ -11,7 +11,7 @@ function trataErro(erro) {
   throw new Error(chalk.red(erro.code, 'não há arquivo no caminho'));
 }
 
-//Atividade 1
+// Exemplo 1
 // function pegaArquivo(caminhoDoArquivo) {
 //   const encoding = 'utf-8';
 //   fs.readFile(caminhoDoArquivo, encoding, (erro, dados) => {
@@ -22,7 +22,7 @@ function trataErro(erro) {
 //   })
 // }
 
-// Atividade 2
+// Exemplo 2
 // function pegaArquivo(caminhoDoArquivo) {
 //   const encoding = 'utf-8';
 //   fs.promises
@@ -32,7 +32,7 @@ function trataErro(erro) {
 // }
 
 
-// Atividade 3
+// Exemplo 3
 async function pegaArquivo(caminhoDoArquivo) {
   const encoding = 'utf-8';
   try {
