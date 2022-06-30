@@ -1,6 +1,6 @@
 # BIBLIOTECAS NODE.JS
 
-Esse roteiro de esturo é para pessoas iniciantes na programação, que deseja compreender a funcionalidade de uma biblioteca Node.JS, ter boas práticas no uso de dependências na construção de aplicações. 
+Esse roteiro de estudo é para pessoas iniciantes na programação, que deseja compreender a funcionalidade de uma biblioteca Node.JS, ter boas práticas no uso de dependências na construção de aplicações. 
  
 Vamos aprender o conceito de bibliotecas e sua relevância na programação, através da plataforma Node.JS, iremos conhecer os gerenciador de pacotes NPM e YARN, fazer instalações de dependências e criar scripts para executar comandos. 
 
